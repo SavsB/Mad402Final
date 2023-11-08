@@ -10,7 +10,7 @@ I don't necessarily agree with this choice, but these companies are associated w
 * The homepage of the app devides accounts into categories (ie. Banking,Credit,Investing) which is a design choice I like and will most likely try to incorporate in my app. The screen places a big focus on the numbers.
 
 ## Screenshots
-
+![TD Bill Page](/TD 2.jpg)
 ## Conclusion
 
 
