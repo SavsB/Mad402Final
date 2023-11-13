@@ -1,3 +1,3 @@
 # Mad402Final
 
-[link] Case Study (
+[link](https://github.com/SavsB/Mad402Final/blob/main/CaseStudy.md) Case Study
