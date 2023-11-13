@@ -1,3 +1,3 @@
 # Mad402Final
 
-[Case Study](/case)
+[Case Study](/CaseStudy.md)
