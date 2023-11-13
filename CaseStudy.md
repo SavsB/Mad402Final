@@ -45,7 +45,7 @@ During my research I often found that numbers are a very crucial part to the dis
 ![Dribble Screenshot 2](/Dribble2.png)
 
 - Screenshot 5.1
-![Expanded Screenshot 2](/Dribble2.0.png)
+![Expanded Screenshot 2](/dribble2.0.png)
 
 ## Conclusion
 
