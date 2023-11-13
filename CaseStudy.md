@@ -2,8 +2,7 @@
 
 ## Introduction
 
-During my research I often found that numbers are a very crucial part to the display. Charts are also heavily used to display data. Colors are often bold like in the TD,Capital One apps and the dribbble screen shot.
-I don't necessarily agree with this choice, but these companies are associated with bold color schemes in their branding by default.
+In this case study I go over the likes and dislikes of various apps with similar functionalities to the final SPENDR app. I focus on apps that I interact with daily like TD Banking and Capital One. I also study a few dribble examples of a finanace app and a mortgae app to further my understanding of how data like this is displayed.
 
 ### TD Banking App
 
@@ -21,7 +20,9 @@ The color scheme is again bold, I've discussed this concept many times throughou
 
 ### Dribble Screenshot 2
 
-I grabbed this screenshot to try and focus on the ways mortgage information is displayed. It clear that mortgages involve a lot of different numbers from interest rates,down payment rates etc. What I like about this screenshot is the numbers are again a main focus of the screen but they are clear and consistant and easy to understand. I like the use of the pie chart to display how the money is divided into catagories like propety taxes or insurance payments. The color scheme is a bit more
+I grabbed this screenshot to try and focus on the ways mortgage information is displayed. It clear that mortgages involve a lot of different numbers from interest rates,down payment rates etc. What I like about this screenshot is the numbers are again a main focus of the screen but they are clear and consistant and easy to understand. I like the use of the pie chart to display how the money is divided into catagories like propety taxes or insurance payments. (See Screenshot 5) The color scheme is a bit less bold. The use of UI elements like sliders and images is well thought out and makes the usability clean and understandable. (See Screenshot 5.1).
+
+## Conclusion
 
 
 
@@ -42,6 +43,9 @@ I grabbed this screenshot to try and focus on the ways mortgage information is d
 
 - Screenshot 5
 ![Dribble Screenshot 2](/Dribble2.png)
+
+- Screenshot 5.1
+![Expanded Screenshot 2](/Dribble2.0.png)
 
 ## Conclusion
 
