@@ -21,6 +21,7 @@ The color scheme is again bold, I've discussed this concept many times throughou
 
 ### Dribble Screenshot 2
 
+I grabbed this screenshot to try and focus on the ways mortgage information is displayed. It clear that mortgages involve a lot of different numbers from interest rates,down payment rates etc. What I like about this screenshot is the numbers are again a main focus of the screen but they are clear and consistant and easy to understand. I like the use of the pie chart to display how the money is divided into catagories like propety taxes or insurance payments. The color scheme is a bit more
 
 
 
@@ -40,7 +41,7 @@ The color scheme is again bold, I've discussed this concept many times throughou
 ![Dribble Screenshot](/DribbleScreenshot.png)
 
 - Screenshot 5
-![Dribble Screenshot 2](/Dribble2.jpeg)
+![Dribble Screenshot 2](/Dribble2.png)
 
 ## Conclusion
 
