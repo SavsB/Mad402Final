@@ -24,7 +24,7 @@ I grabbed this screenshot to try and focus on the ways mortgage information is d
 
 ## Conclusion
 
-
+During my research I often found that numbers are a very crucial part to the displays and hierarchy of these numbers is very important. Charts and graphs are often used to display information to the user especially when it comes to displaying investments and things like mortgages.  
 
 
 ## Screenshots
